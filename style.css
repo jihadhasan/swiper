@@ -285,7 +285,7 @@ li.slide {
     height: 500px;
 }
 section.options {
-    top: 510px;
+    top: 530px;
 }
 p.message {
     position: absolute;
@@ -304,4 +304,10 @@ p.message {
     right: 0;
     left: 0;
     margin: auto;
+}
+section.options a {
+    background: #002776;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
 }
